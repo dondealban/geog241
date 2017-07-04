@@ -3,7 +3,7 @@
 ## Overview
 This repository contains my essays and reflections from reading assignments as partial fulfillment of the requirements under the Geog241 course (Introduction to Geographic Thought), which I took up for my MSc Geomatics Engineering studies during the 1st semester, AY 2016-2017, under [Dr Kristian Saguin](http://pages.upd.edu.ph/kcsaguin) ([Department of Geography](http://geog.upd.edu.ph), College of Social Sciences and Philosophy, University of the Philippines Diliman).
 
-All the `LaTeX` files were written and compiled using [Atom](https://atom.io).
+All the `LaTeX` files were written in [Atom](https://atom.io) and compiled using the [latex](https://atom.io/packages/latex) package.
 
 ## Contents
 - Week 01: Theory and Philosophy in Geography
